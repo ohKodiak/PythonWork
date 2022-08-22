@@ -1,0 +1,15 @@
+#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
+#   "I have not given or received any unauthorized aid on this assignment."
+#
+# Name:         Ezra Jeter
+# Section:      213
+# Team:         11
+# Assignment:   Lab 11b_Act2
+# Date:         11/28/21
+
+''' Write a python program named Lab11b_Act2.py to play a number guessing game. Have your program
+display a short message with instructions, then continually prompt the user to guess a number. With
+each wrong guess, let the user know if their guess is too high or too low. When the user correctly
+guesses the number, output the total number of guesses made. Write your program using at least three
+(3) functions. You may format the output however you wish; this activity will be manually graded. An
+example is shown below. ''' 
